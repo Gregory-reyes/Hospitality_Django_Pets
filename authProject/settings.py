@@ -113,10 +113,10 @@ WSGI_APPLICATION = 'authProject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': 'dcslfdr5mkeak1',
-        'USER': 'exvohitutwcern',
-        'PASSWORD': '76901a8737ee976f668c4843b7d287096a9dd88f8afee2352139aa93e9899841',
-        'HOST': 'ec2-35-172-26-41.compute-1.amazonaws.com',
+        'NAME': 'd49u7872rjv9ap',
+        'USER': 'adkhuvicwfnbly',
+        'PASSWORD': '5e7d2bd7744aca800c457b843986a7a63e4b1b0d790707fc5afc75df1a0b38a6',
+        'HOST': 'ec2-3-234-126-10.compute-1.amazonaws.com',
         'PORT': '5432',
     }
 }
